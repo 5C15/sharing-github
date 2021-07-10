@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - python
+  - numpy
+  - matplotlib.pyplot
+  - ipywidgets
+  - seaborn
